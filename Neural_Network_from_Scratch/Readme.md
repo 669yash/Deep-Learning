@@ -52,6 +52,6 @@ The dataset used for training and testing the neural network is a simple XOR dat
 ## Declaration
 I, Yash Anil Mali, confirm that the work submitted in this assignment is my own and has been completed following academic integrity guidelines. The code is uploaded on my GitHub repository account, and the repository link is provided below:
 
-**GitHub Repository Link:** (https://github.com/669yash/Deep-Learning/tree/14ab36feadffb554cda89bfd61c5c7e7d0d1b41a/Neural_Network_from_Scratch)
+**GitHub Repository Link:** (https://github.com/669yash/Deep-Learning/tree/main/Neural_Network_from_Scratch)
 
 **Signature:** Yash Anil Mali
